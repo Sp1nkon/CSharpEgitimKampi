@@ -1,0 +1,7 @@
+C:\Users\muham\source\repos\Dipten01\Dipten01\bin\Debug\Dipten01.exe.config
+C:\Users\muham\source\repos\Dipten01\Dipten01\bin\Debug\Dipten01.exe
+C:\Users\muham\source\repos\Dipten01\Dipten01\bin\Debug\Dipten01.pdb
+C:\Users\muham\source\repos\Dipten01\Dipten01\obj\Debug\Dipten01.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\Dipten01\Dipten01\obj\Debug\Dipten01.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Dipten01\Dipten01\obj\Debug\Dipten01.exe
+C:\Users\muham\source\repos\Dipten01\Dipten01\obj\Debug\Dipten01.pdb
