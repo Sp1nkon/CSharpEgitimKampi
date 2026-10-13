@@ -23,10 +23,10 @@ Murat Yücedağ tarafından verilen C# Eğitim Kampı'nda verilen projeler.
 <h2>✨06_Arrays</h2>
 <p>Bu bölümde dizilerle işlem yapmayı öğrendik.</p>
 
-<h2>✨CSharpEgitimKampi_Ders7</h2>
+<h2>✨07_ForeachLoop</h2>
 <p>Bu bölümde foreach döngüsünün kullanımı öğrendik.</p>
 
-<h2>✨CSharpEgitimKampi_Ders8</h2>
+<h2>✨08_Methods</h2>
 <p>Bu bölümde kodun yeniden kullanılabilirliğini sağlayan metot kavramını öğrendik.</p>
 
 <h2>✨CSharpEgitimKampi_Ders9</h2>
