@@ -30,6 +30,6 @@ Murat Yücedağ tarafından verilen C# Eğitim Kampı'nda verilen projeler.
 <h2>✨08_Methods</h2>
 <p>Bu bölümde kodun yeniden kullanılabilirliğini sağlayan metot kavramını öğrendik.</p>
 
-<h2>✨DatabaseProject</h2>
+<h2>✨09_DatabaseProject</h2>
 <p>Bu bölümde SQL veri tabanı oluşturma, yönetme ve C#'a bağlamayı öğrendik..</p>
 
