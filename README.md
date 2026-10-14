@@ -7,8 +7,9 @@ Murat Yücedağ tarafından verilen C# Eğitim Kampı'nda verilen projeler.
 
 <h2>✨01_Dipten</h2>
 <p>Bu bölümde temel yazdırma komutlarını öğrendik.</p>
+//buradaki dosya başlığının adı farklı ama dosya adını değiştirirsem cs. dosyası kaybolabilir diye dokunmadım bilginize
 
-<h2>✨2.Bölümü kaydetmeyi unutmuşum</h2>
+<h2>✨02_Variables</h2>
 <p>Bu bölümde int, string, double gibi temel veri tiplerini öğrendik.</p>
 
 <h2>✨03_MakingDecisionDers</h2>
@@ -29,8 +30,6 @@ Murat Yücedağ tarafından verilen C# Eğitim Kampı'nda verilen projeler.
 <h2>✨08_Methods</h2>
 <p>Bu bölümde kodun yeniden kullanılabilirliğini sağlayan metot kavramını öğrendik.</p>
 
-<h2>✨CSharpEgitimKampi_Ders9</h2>
+<h2>✨DatabaseProject</h2>
 <p>Bu bölümde SQL veri tabanı oluşturma, yönetme ve C#'a bağlamayı öğrendik..</p>
 
-<h2>✨CSharpEgitimKampi_Ders10</h2>
-<p>Bu bölümde SQL'de Listeleme/Ekleme/Güncelleme/Silme işlemlerini öğrendik.</p>
