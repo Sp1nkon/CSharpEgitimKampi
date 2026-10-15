@@ -33,5 +33,5 @@ Murat Yücedağ tarafından verilen C# Eğitim Kampı'nda verilen projeler.
 <h2>✨09_DatabaseProject</h2>
 <p>Bu bölümde SQL veri tabanı oluşturma, yönetme ve C#'a bağlamayı öğrendik..</p>
 
-✨10_DatabaseCrud</h2>
+<h2>✨10_DatabaseCrud</h2>
 Bu bölümde SQL'de Listeleme/Ekleme/Güncelleme/Silme işlemlerini öğrendik.
